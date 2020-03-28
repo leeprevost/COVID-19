@@ -1,18 +1,22 @@
-# 2019 Novel Coronavirus COVID-19 (2019-nCoV) Web Crawler Data Repository by Johns Hopkins CSSE
+# 2019 Novel Coronavirus COVID-19 Studies by @LeePrevost
 
-
-This is the web crawler data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
 <br><br>
-<b>Current Data Crawling Sources:</b><br>
+<b>Current Sources:</b><br>
 
-* BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  <br>
-* Worldometer: https://www.worldometers.info/coronavirus/ <br>
+* Italy: Daily Testing Data -- Dati COVID-19 Italia - https://github.com/pcm-dpc/COVID-19/ <br> 
+* South Korea: Daily Testing Data - KCDC https://www.cdc.go.kr/ <br>
+* All Case Data -- 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE https://github.com/CSSEGISandData/COVID-19 <br>
 
 <b>Contact Us: </b><br>
-* Email: jhusystems@gmail.com
+* twitter: @LeePrevost
 <br><br>
 
 <b>Terms of Use:</b><br>
 
-This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 Johns Hopkins University, all rights reserved, is provided to the public strictly for educational and academic research purposes.  The Website relies upon publicly available data from multiple sources, that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability.  Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+# Usage
+1- Daily Scale Testing and dates defined by South Korea study -- https://github.com/leeprevost/COVID-19/blob/master/Relationship%20of%20Testing%20to%20Cases%20in%20South%20Korea.jpg <br>
+2 - ipython notebook that performs analysis -- https://github.com/leeprevost/COVID-19/blob/master/Pop%20adjusted%20cases.ipynb <br>
+
+
+This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 @LeePrevost
