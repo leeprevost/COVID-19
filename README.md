@@ -12,7 +12,6 @@
 * twitter: @LeePrevost
 <br><br>
 
-<b>Terms of Use:</b><br>
 
 # Usage
 1- Daily Scale Testing and dates defined by South Korea study -- https://github.com/leeprevost/COVID-19/blob/master/Relationship%20of%20Testing%20to%20Cases%20in%20South%20Korea.jpg <br>
