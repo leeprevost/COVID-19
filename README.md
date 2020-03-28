@@ -14,7 +14,7 @@
 
 
 # Usage
-1- Daily Scale Testing and dates defined by South Korea study -- https://github.com/leeprevost/COVID-19/blob/master/Relationship%20of%20Testing%20to%20Cases%20in%20South%20Korea.jpg <br>
+1 - Daily Scale Testing and dates defined by South Korea study -- https://github.com/leeprevost/COVID-19/blob/master/Relationship%20of%20Testing%20to%20Cases%20in%20South%20Korea.jpg <br>
 2 - ipython notebook that performs analysis -- https://github.com/leeprevost/COVID-19/blob/master/Pop%20adjusted%20cases.ipynb <br>
 
 
